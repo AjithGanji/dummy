@@ -1,0 +1,289 @@
+{
+  "width": 6032,
+  "height": 2414,
+  "mode": "substation",
+  "layers": [
+    {
+      "name": "Central / ISGS & 765 kV / HVDC (Yellow & Magenta)",
+      "tiles": [
+        {
+          "file": "layers/L0_0_0.png",
+          "x": 0,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L0_0_1.png",
+          "x": 2048,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L0_0_2.png",
+          "x": 4096,
+          "y": 0,
+          "w": 1936,
+          "h": 2048
+        },
+        {
+          "file": "layers/L0_1_0.png",
+          "x": 0,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L0_1_1.png",
+          "x": 2048,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L0_1_2.png",
+          "x": 4096,
+          "y": 2048,
+          "w": 1936,
+          "h": 366
+        }
+      ]
+    },
+    {
+      "name": "Telangana Substations (Purple)",
+      "tiles": [
+        {
+          "file": "layers/L1_0_0.png",
+          "x": 0,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L1_0_1.png",
+          "x": 2048,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L1_0_2.png",
+          "x": 4096,
+          "y": 0,
+          "w": 1936,
+          "h": 2048
+        },
+        {
+          "file": "layers/L1_1_0.png",
+          "x": 0,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L1_1_1.png",
+          "x": 2048,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L1_1_2.png",
+          "x": 4096,
+          "y": 2048,
+          "w": 1936,
+          "h": 366
+        }
+      ]
+    },
+    {
+      "name": "Karnataka Substations (Cyan)",
+      "tiles": [
+        {
+          "file": "layers/L2_0_0.png",
+          "x": 0,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L2_0_1.png",
+          "x": 2048,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L2_0_2.png",
+          "x": 4096,
+          "y": 0,
+          "w": 1936,
+          "h": 2048
+        },
+        {
+          "file": "layers/L2_1_0.png",
+          "x": 0,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L2_1_1.png",
+          "x": 2048,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L2_1_2.png",
+          "x": 4096,
+          "y": 2048,
+          "w": 1936,
+          "h": 366
+        }
+      ]
+    },
+    {
+      "name": "Andhra Pradesh Substations (Green)",
+      "tiles": [
+        {
+          "file": "layers/L3_0_0.png",
+          "x": 0,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L3_0_1.png",
+          "x": 2048,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L3_0_2.png",
+          "x": 4096,
+          "y": 0,
+          "w": 1936,
+          "h": 2048
+        },
+        {
+          "file": "layers/L3_1_0.png",
+          "x": 0,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L3_1_1.png",
+          "x": 2048,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L3_1_2.png",
+          "x": 4096,
+          "y": 2048,
+          "w": 1936,
+          "h": 366
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu & Kerala Substations (Pink & Tan)",
+      "tiles": [
+        {
+          "file": "layers/L4_0_0.png",
+          "x": 0,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L4_0_1.png",
+          "x": 2048,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L4_0_2.png",
+          "x": 4096,
+          "y": 0,
+          "w": 1936,
+          "h": 2048
+        },
+        {
+          "file": "layers/L4_1_0.png",
+          "x": 0,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L4_1_1.png",
+          "x": 2048,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L4_1_2.png",
+          "x": 4096,
+          "y": 2048,
+          "w": 1936,
+          "h": 366
+        }
+      ]
+    },
+    {
+      "name": "400 kV Grid Transmission Lines (Pink lines & flows)",
+      "tiles": [
+        {
+          "file": "layers/L5_0_0.png",
+          "x": 0,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L5_0_1.png",
+          "x": 2048,
+          "y": 0,
+          "w": 2048,
+          "h": 2048
+        },
+        {
+          "file": "layers/L5_0_2.png",
+          "x": 4096,
+          "y": 0,
+          "w": 1936,
+          "h": 2048
+        },
+        {
+          "file": "layers/L5_1_0.png",
+          "x": 0,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L5_1_1.png",
+          "x": 2048,
+          "y": 2048,
+          "w": 2048,
+          "h": 366
+        },
+        {
+          "file": "layers/L5_1_2.png",
+          "x": 4096,
+          "y": 2048,
+          "w": 1936,
+          "h": 366
+        }
+      ]
+    }
+  ]
+}
